@@ -1,0 +1,100 @@
+1|cobalt.tools|download any social media video
+2|justwatch.com|find streaming locations for any content
+3|archive.org|access any old webpage, plus free movies, music, software
+4|archive.ph|permanently save any webpage
+5|tunefind.com|find songs from any show
+6|radio.garden|listen to any global radio station
+7|musicforprogramming.net|focus music
+8|mynoise.net|custom focus soundscapes
+9|summarize.tech|summarize any YouTube video
+10|subtitlecat.com|auto-subtitles for any video
+11|photopea.com|free photoshop in your browser
+12|remove.bg|one-click background removal
+13|cleanup.pictures|erase objects from photos
+14|unscreen.com|free video background removal
+15|squoosh.app|free compression for any image
+16|tinypng.com|image compression that just works
+17|tineye.com|reverse image search
+18|unsplash.com|free high-res stock photos
+19|pexels.com|free stock photos and videos
+20|pixabay.com|free stock images, vectors, music
+21|undraw.co|free illustrations you can recolor
+22|heroicons.com|free SVG icons
+23|lucide.dev|clean open-source icon set
+24|coolors.co|color palette generator
+25|tinywow.com|100+ free tools in one place
+26|smallpdf.com|free PDF editing
+27|ilovepdf.com|merge and split PDFs
+28|pdfdrive.com|free PDF downloads
+29|pdf24.org|full PDF toolkit, free
+30|sejda.com|browser-based PDF editor
+31|gutenberg.org|70,000 free classic books
+32|openculture.com|free courses from top universities
+33|libgen.li|millions of free textbooks
+34|sci-hub.al|free research papers
+35|annas-archive.org|search every book ever written
+36|standardebooks.org|beautifully formatted public domain books
+37|coursera.org|audit thousands of university courses free
+38|edx.org|free courses from MIT, Harvard, more
+39|khanacademy.org|free K-12 and college subjects
+40|freecodecamp.org|full dev curriculum, free
+41|theodinproject.com|free full-stack dev path
+42|cs50.harvard.edu|Harvard's intro CS course, free
+43|elicit.com|AI research paper assistant
+44|consensus.app|search scientific consensus
+45|connectedpapers.com|visualize and map research
+46|semanticscholar.org|free academic search
+47|scispace.com|understand any research paper
+48|researchrabbit.ai|discover related papers
+49|scholar.google.com|academic search engine
+50|regex101.com|instantly test any regular expression
+51|codebeautify.org|cleanly format any code
+52|explainshell.com|understand terminal commands
+53|carbon.now.sh|turn code into artwork
+54|ray.so|stunning code screenshots
+55|phind.com|developer AI search
+56|devdocs.io|every dev doc in one searchable place
+57|caniuse.com|browser support for any web feature
+58|jsonformatter.org|format and validate JSON
+59|transform.tools|convert between data and code formats
+60|crontab.guru|explain any cron expression
+61|shields.io|generate readme badges
+62|excalidraw.com|free hand-drawn charts
+63|tldraw.com|infinite whiteboard in your browser
+64|miro.com|collaborative whiteboard (free tier)
+65|notion.so|free notes, docs, databases
+66|obsidian.md|local-first markdown knowledge base
+67|cryptpad.fr|encrypted google-docs alternative
+68|temp-mail.org|one-click temporary email
+69|10minutemail.com|instant temporary email
+70|privnote.com|send self-destructing messages
+71|file.io|share auto-deleting files
+72|accountkiller.com|delete yourself from any website
+73|simplelogin.io|free email aliases
+74|crypt.ee|encrypted notes and photos
+75|haveibeenpwned.com|check if you've been hacked
+76|virustotal.com|scan any file for malware
+77|downdetector.com|check if any website is down
+78|urlvoid.com|check if a URL is sketchy
+79|whoer.net|see what sites see about you
+80|wolframalpha.com|instantly solve any math problem
+81|alternativeto.net|find free app alternatives
+82|flightradar24.com|real-time tracking for any flight
+83|camelcamelcamel.com|track amazon price history
+84|fast.com|check internet speed
+85|speedtest.net|bandwidth and latency check
+86|wetransfer.com|send files up to 2GB free
+87|fakespot.com|detect fake amazon reviews
+88|xe.com|clean currency conversion
+89|timeanddate.com|meeting planner across timezones
+90|taxifarefinder.com|estimate cab fare anywhere
+91|hemingwayapp.com|make your writing clearer
+92|languagetool.org|free grammar checker
+93|deepl.com|translation that beats google translate
+94|quillbot.com|paraphrase and summarize (free tier)
+95|perplexity.ai|AI search with sources
+96|claude.ai|Anthropic's AI assistant
+97|you.com|AI search and writing
+98|rytr.me|free AI writing (small tier)
+99|audiomass.co|free browser audio editor
+100|clipchamp.com|free in-browser video editor
